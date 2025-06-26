@@ -1,3 +1,7 @@
 body {
-background-color: bisque;
+background-color: rgba(124, 81, 147, 0.857);
+}
+footer {
+background-color: black;
+color: white;
 }
