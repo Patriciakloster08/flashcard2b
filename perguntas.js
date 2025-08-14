@@ -1,22 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'fisioterapia',
+    'O que é fisioterapia?',
+    'É uma ciência da saúde que estuda, previne e trata distúrbios do movimento e funcionalidade do corpo humano, utilizando recursos físicos (como exercícios, calor, frio, eletroterapia, entre outros).'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'fisioterapia',
+    'Qual o principal objetivo da fisioterapia?',
+    'Promover a reabilitação física, prevenir lesões e melhorar a qualidade de vida dos pacientes por meio de técnicas terapêuticas específicas.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'fisioterapia',
+    'Como a fisioterapia ajuda em casos de AVC (Acidente Vascular Cerebral)?',
+    'Ajuda na recuperação de movimentos, melhora do equilíbrio, coordenação e força muscular, além de prevenir contraturas e promover a independência funcional.'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'fisioterapia',
+    'O que é cinesioterapia?',
+    'É o uso de exercícios terapêuticos planejados para restaurar ou manter a função física e o movimento dos pacientes.'
 )
