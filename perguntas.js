@@ -1,7 +1,7 @@
 criaCartao(
     'fisioterapia',
     'O que é fisioterapia?',
-    'É uma ciência da saúde que estuda, previne e trata distúrbios do movimento e funcionalidade do corpo humano.'
+    'É uma ciência que estuda, previne e trata distúrbios do movimento e funcionalidade do corpo humano.'
 )
 
 criaCartao(
